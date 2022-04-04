@@ -2,7 +2,7 @@
     "jobs":[
         {
             "username":3180100279,
-            "password":woNBB295,
+            "password":"woNBB295",
             "dingtalkurl": null,
             "dingtalksecret": null,
             "delay":false
